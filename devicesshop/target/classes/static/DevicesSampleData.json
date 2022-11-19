@@ -1,0 +1,231 @@
+[
+  {
+    "deviceId": "6378073b1f9e760976bee09b",
+    "name": "device_1",
+    "deviceStatus": "NOT_READY",
+    "temperature": 10,
+    "simCard": null
+  },
+  {
+    "deviceId": "6378073b1f9e760976bee09c",
+    "name": "device_2",
+    "deviceStatus": "NOT_READY",
+    "temperature": -29,
+    "simCard": null
+  },
+  {
+    "deviceId": "6378073b1f9e760976bee09d",
+    "name": "device_3",
+    "deviceStatus": "NOT_READY",
+    "temperature": 90,
+    "simCard": null
+  },
+  {
+    "deviceId": "6378073b1f9e760976bee09f",
+    "name": "device_4",
+    "deviceStatus": "NOT_READY",
+    "temperature": 90,
+    "simCard": {
+      "simId": "6378073b1f9e760976bee09e",
+      "operatorCode": "SIM_5",
+      "country": "Egypt",
+      "simStatus": "DEACTIVATED",
+      "target": {
+        "simId": "6378073b1f9e760976bee09e",
+        "operatorCode": "SIM_5",
+        "country": "Egypt",
+        "simStatus": "DEACTIVATED"
+      },
+      "source": {
+        "id": {
+          "timestamp": 1668810555,
+          "date": "2022-11-18T22:29:15.000+00:00"
+        },
+        "collectionName": "simCard",
+        "databaseName": null
+      }
+    }
+  },
+  {
+    "deviceId": "6378073b1f9e760976bee0a1",
+    "name": "device_5",
+    "deviceStatus": "NOT_READY",
+    "temperature": 90,
+    "simCard": {
+      "simId": "6378073b1f9e760976bee0a0",
+      "operatorCode": "SIM_6",
+      "country": "Egypt",
+      "simStatus": "WAITING_FOR_ACTIVATION",
+      "target": {
+        "simId": "6378073b1f9e760976bee0a0",
+        "operatorCode": "SIM_6",
+        "country": "Egypt",
+        "simStatus": "WAITING_FOR_ACTIVATION"
+      },
+      "source": {
+        "id": {
+          "timestamp": 1668810555,
+          "date": "2022-11-18T22:29:15.000+00:00"
+        },
+        "collectionName": "simCard",
+        "databaseName": null
+      }
+    }
+  },
+  {
+    "deviceId": "6378073b1f9e760976bee0a3",
+    "name": "device_6",
+    "deviceStatus": "NOT_READY",
+    "temperature": 90,
+    "simCard": {
+      "simId": "6378073b1f9e760976bee0a2",
+      "operatorCode": "SIM_7",
+      "country": "Egypt",
+      "simStatus": "ACTIVE",
+      "target": {
+        "simId": "6378073b1f9e760976bee0a2",
+        "operatorCode": "SIM_7",
+        "country": "Egypt",
+        "simStatus": "ACTIVE"
+      },
+      "source": {
+        "id": {
+          "timestamp": 1668810555,
+          "date": "2022-11-18T22:29:15.000+00:00"
+        },
+        "collectionName": "simCard",
+        "databaseName": null
+      }
+    }
+  },
+  {
+    "deviceId": "6378073b1f9e760976bee0a5",
+    "name": "device_7",
+    "deviceStatus": "NOT_READY",
+    "temperature": 90,
+    "simCard": {
+      "simId": "6378073b1f9e760976bee0a4",
+      "operatorCode": "SIM_8",
+      "country": "Egypt",
+      "simStatus": "BLOCKED",
+      "target": {
+        "simId": "6378073b1f9e760976bee0a4",
+        "operatorCode": "SIM_8",
+        "country": "Egypt",
+        "simStatus": "BLOCKED"
+      },
+      "source": {
+        "id": {
+          "timestamp": 1668810555,
+          "date": "2022-11-18T22:29:15.000+00:00"
+        },
+        "collectionName": "simCard",
+        "databaseName": null
+      }
+    }
+  },
+  {
+    "deviceId": "6378073b1f9e760976bee0a7",
+    "name": "device_8",
+    "deviceStatus": "READY",
+    "temperature": 40,
+    "simCard": {
+      "simId": "6378073b1f9e760976bee0a6",
+      "operatorCode": "SIM_9",
+      "country": "Egypt",
+      "simStatus": "DEACTIVATED",
+      "target": {
+        "simId": "6378073b1f9e760976bee0a6",
+        "operatorCode": "SIM_9",
+        "country": "Egypt",
+        "simStatus": "DEACTIVATED"
+      },
+      "source": {
+        "id": {
+          "timestamp": 1668810555,
+          "date": "2022-11-18T22:29:15.000+00:00"
+        },
+        "collectionName": "simCard",
+        "databaseName": null
+      }
+    }
+  },
+  {
+    "deviceId": "6378073b1f9e760976bee0a9",
+    "name": "device_9",
+    "deviceStatus": "READY",
+    "temperature": 30,
+    "simCard": {
+      "simId": "6378073b1f9e760976bee0a8",
+      "operatorCode": "SIM_10",
+      "country": "Egypt",
+      "simStatus": "WAITING_FOR_ACTIVATION",
+      "target": {
+        "simId": "6378073b1f9e760976bee0a8",
+        "operatorCode": "SIM_10",
+        "country": "Egypt",
+        "simStatus": "WAITING_FOR_ACTIVATION"
+      },
+      "source": {
+        "id": {
+          "timestamp": 1668810555,
+          "date": "2022-11-18T22:29:15.000+00:00"
+        },
+        "collectionName": "simCard",
+        "databaseName": null
+      }
+    }
+  },
+  {
+    "deviceId": "6378073b1f9e760976bee0ab",
+    "name": "device_10",
+    "deviceStatus": "READY",
+    "temperature": 20,
+    "simCard": {
+      "simId": "6378073b1f9e760976bee0aa",
+      "operatorCode": "SIM_11",
+      "country": "Egypt",
+      "simStatus": "ACTIVE",
+      "target": {
+        "simId": "6378073b1f9e760976bee0aa",
+        "operatorCode": "SIM_11",
+        "country": "Egypt",
+        "simStatus": "ACTIVE"
+      },
+      "source": {
+        "id": {
+          "timestamp": 1668810555,
+          "date": "2022-11-18T22:29:15.000+00:00"
+        },
+        "collectionName": "simCard",
+        "databaseName": null
+      }
+    }
+  },
+  {
+    "deviceId": "6378073b1f9e760976bee0ad",
+    "name": "device_11",
+    "deviceStatus": "READY",
+    "temperature": 10,
+    "simCard": {
+      "simId": "6378073b1f9e760976bee0ac",
+      "operatorCode": "SIM_12",
+      "country": "Egypt",
+      "simStatus": "BLOCKED",
+      "target": {
+        "simId": "6378073b1f9e760976bee0ac",
+        "operatorCode": "SIM_12",
+        "country": "Egypt",
+        "simStatus": "BLOCKED"
+      },
+      "source": {
+        "id": {
+          "timestamp": 1668810555,
+          "date": "2022-11-18T22:29:15.000+00:00"
+        },
+        "collectionName": "simCard",
+        "databaseName": null
+      }
+    }
+  }
+]

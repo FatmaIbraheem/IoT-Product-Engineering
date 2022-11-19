@@ -1,0 +1,11 @@
+com\vois\devicesshop\services\WarehouseService.class
+com\vois\devicesshop\controllers\ShopController.class
+com\vois\devicesshop\model\SIMCard.class
+com\vois\devicesshop\DevicesshopApplication.class
+com\vois\devicesshop\model\SIMCardStatus.class
+com\vois\devicesshop\services\ShopService.class
+com\vois\devicesshop\controllers\WarehouseController.class
+com\vois\devicesshop\model\DeviceStatus.class
+com\vois\devicesshop\model\Device.class
+com\vois\devicesshop\repository\IDevicesRepository.class
+com\vois\devicesshop\repository\ISIMCardRepository.class

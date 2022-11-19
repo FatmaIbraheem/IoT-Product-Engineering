@@ -1,0 +1,74 @@
+[
+  {
+    "simId": "6378073b1f9e760976bee097",
+    "operatorCode": "SIM_1",
+    "country": "Egypt",
+    "simStatus": "BLOCKED"
+  },
+  {
+    "simId": "6378073b1f9e760976bee098",
+    "operatorCode": "SIM_2",
+    "country": "Egypt",
+    "simStatus": "ACTIVE"
+  },
+  {
+    "simId": "6378073b1f9e760976bee099",
+    "operatorCode": "SIM_3",
+    "country": "Egypt",
+    "simStatus": "WAITING_FOR_ACTIVATION"
+  },
+  {
+    "simId": "6378073b1f9e760976bee09a",
+    "operatorCode": "SIM_4",
+    "country": "Egypt",
+    "simStatus": "DEACTIVATED"
+  },
+  {
+    "simId": "6378073b1f9e760976bee09e",
+    "operatorCode": "SIM_5",
+    "country": "Egypt",
+    "simStatus": "DEACTIVATED"
+  },
+  {
+    "simId": "6378073b1f9e760976bee0a0",
+    "operatorCode": "SIM_6",
+    "country": "Egypt",
+    "simStatus": "WAITING_FOR_ACTIVATION"
+  },
+  {
+    "simId": "6378073b1f9e760976bee0a2",
+    "operatorCode": "SIM_7",
+    "country": "Egypt",
+    "simStatus": "ACTIVE"
+  },
+  {
+    "simId": "6378073b1f9e760976bee0a4",
+    "operatorCode": "SIM_8",
+    "country": "Egypt",
+    "simStatus": "BLOCKED"
+  },
+  {
+    "simId": "6378073b1f9e760976bee0a6",
+    "operatorCode": "SIM_9",
+    "country": "Egypt",
+    "simStatus": "DEACTIVATED"
+  },
+  {
+    "simId": "6378073b1f9e760976bee0a8",
+    "operatorCode": "SIM_10",
+    "country": "Egypt",
+    "simStatus": "WAITING_FOR_ACTIVATION"
+  },
+  {
+    "simId": "6378073b1f9e760976bee0aa",
+    "operatorCode": "SIM_11",
+    "country": "Egypt",
+    "simStatus": "ACTIVE"
+  },
+  {
+    "simId": "6378073b1f9e760976bee0ac",
+    "operatorCode": "SIM_12",
+    "country": "Egypt",
+    "simStatus": "BLOCKED"
+  }
+]
