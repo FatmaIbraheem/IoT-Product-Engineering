@@ -67,45 +67,6 @@ class ShopServiceTest {
                 new SIMCard("simCardId", "operatorCode", "country", SIMCardStatus.ACTIVE)));
     }
 
-//    @Test
-//    void testUpdate_IDevicesRepositoryFindByIdReturnsAbsent() {
-//        // Setup
-//        final Device updatedDevice = new Device("deviceId", "name", DeviceStatus.READY, 0,
-//                new SIMCard("simCardId", "operatorCode", "country", SIMCardStatus.ACTIVE));
-//        Mockito.when(devicesRepository.findById("deviceId")).thenReturn(Optional.empty());
-//
-//        // Configure IDevicesRepository.save(...).
-//        final Device device = new Device("deviceId", "name", DeviceStatus.READY, 0,
-//                new SIMCard("simCardId", "operatorCode", "country", SIMCardStatus.ACTIVE));
-//        Mockito.when(devicesRepository.save(new Device("deviceId", "name", DeviceStatus.READY, 0,
-//                new SIMCard("simCardId", "operatorCode", "country", SIMCardStatus.ACTIVE)))).thenReturn(device);
-//
-//        // Run the test
-//        shopServiceUnderTest.update(updatedDevice);
-//
-//        // Verify the results
-//        verify(devicesRepository).save(new Device("deviceId", "name", DeviceStatus.READY, 0,
-//                new SIMCard("simCardId", "operatorCode", "country", SIMCardStatus.ACTIVE)));
-//    }
-
-//    @Test
-//    void testGetDevicesAvailableForSale() {
-//        // Setup
-//        final List<Device> expectedResult = Arrays.asList(new Device("deviceId", "name", DeviceStatus.READY, 0,
-//                new SIMCard("simCardId", "operatorCode", "country", SIMCardStatus.ACTIVE)));
-//
-//        // Configure IDevicesRepository.findDevicesWithStatus(...).
-//        final List<Device> devices = Arrays.asList(new Device("deviceId", "name", DeviceStatus.READY, 0,
-//                new SIMCard("simCardId", "operatorCode", "country", SIMCardStatus.ACTIVE)));
-//        Mockito.when(devicesRepository.findDevicesWithStatus(SIMCardStatus.ACTIVE.getValue())).thenReturn(devices);
-//
-//        // Run the test
-//        final List<Device> result = shopServiceUnderTest.getDevicesAvailableForSale();
-//
-//        // Verify the results
-//        assertEquals(expectedResult, result);
-//    }
-
     @Test
     void testGetDevicesAvailableForSale_IDevicesRepositoryReturnsNoItems() {
         // Setup

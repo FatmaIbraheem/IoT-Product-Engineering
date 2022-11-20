@@ -97,24 +97,6 @@ class WarehouseServiceTest {
         assertEquals(Collections.emptyList(), result);
     }
 
-//    @Test
-//    void testGetWaitingForActivationDevices() {
-//        // Setup
-//        final List<Device> expectedResult = Arrays.asList(new Device("deviceId", "device_1", DeviceStatus.READY, 0,
-//                new SIMCard("simCardId", "SIM_1", "Egypt", SIMCardStatus.ACTIVE)));
-//
-//        // Configure IDevicesRepository.findDevicesWithStatus(...).
-//        final List<Device> devices = Arrays.asList(new Device("deviceId", "device_1", DeviceStatus.READY, 0,
-//                new SIMCard("simCardId", "SIM_1", "Egypt", SIMCardStatus.ACTIVE)));
-//        when(devicesRepository.findDevicesWithStatus("value")).thenReturn(devices);
-//
-//        // Run the test
-//        final List<Device> result = warehouseServiceUnderTest.getWaitingForActivationDevices();
-//
-//        // Verify the results
-//        assertEquals(expectedResult, result);
-//    }
-
     @Test
     void testGetWaitingForActivationDevices_IDevicesRepositoryReturnsNoItems() {
         // Setup
